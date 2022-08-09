@@ -1,12 +1,12 @@
 import NavBar from "../components/NavBar";
 
-function indexPage() {
+function About() {
   return (
     <div>
       <NavBar />
-      <h1>Welcome to Next.js!</h1>
+      <h1>About</h1>
     </div>
   );
 }
 
-export default indexPage;
+export default About;
